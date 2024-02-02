@@ -1,0 +1,119 @@
+{
+    "users": [
+        
+        {
+            "id": 0,
+            "users_uuid": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
+            "username": "Jasmin Nicole Inneh",
+            "handle": "JasminInneh",
+            "bio": "Educator turned Web Developer | Bridging the Gap Between Teaching and Tech | Transforming Ideas into Code",
+            "link": "https://www.linkedin.com/in/jasmin-inneh-3b05b7298/",
+            "img": "https://images.unsplash.com/photo-1527203561188-dae1bc1a417f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+            "instagram_url": "https://www.instagram.com/nikkiinneh/",
+            "followers": [
+                {
+                    "user_uuid": "0cecb92a-aded-4126-8e10-f1cba7d3df5b"
+                },
+                {
+                    "user_uuid": "1660098ab-a34f-4935-9929-efe6f1295e97"
+                }
+            ]
+
+        },
+        {
+            "id": 1,
+            "users_uuid": "1660098ab-a34f-4935-9929-efe6f1295e97",
+            "username": "Michelle Bradley",
+            "handle": "MichelleBradley",
+            "bio": "Teacher transitioned to Teach",
+            "link": "https://www.linkedin.com/in/michelle-bradley-3b05b7298/",
+            "img": "https://plus.unsplash.com/premium_photo-1681489930334-b0d26fdb9ed8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHx8fDA%3D",
+            "instagram_url": "https://www.instagram.com/michellebradley/",
+            "followers": [
+                {
+                    "user_uuid": "121dc7b7-abec-452f-9fb4-5ff9e052c482"
+                }
+            ]
+
+        },
+        {
+            "id": 2,
+            "users_uuid": "fc42ef7a-7e4d-41bb-8b96-bbf94c68c4d5 ",
+            "username": "Roosevelt Graham",
+            "handle": "RooseveltGraham",
+            "bio": "Making music for the globe",
+            "link": "https://www.linkedin.com/in/roosevelt-graham-3b05b7298/",
+            "img": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2ZpbGUlMjBwaWN0dXJlfGVufDB8fDB8fHww",
+            "instagram_url": "https://www.instagram.com/rooseveltgraham/",
+            "followers": [
+                {
+                    "user_uuid": "1660098ab-a34f-4935-9929-efe6f1295e97"
+                },
+                {
+                    "user_uuid": "1660098ab-a34f-4935-9929-efe6f1295e97"
+                }
+            ]
+
+        }
+
+    ],
+    "threads": [
+        {
+            "id": 0,
+            "timestamp": "Thu Feb 01 2024 06:10:23 GMT-0500 (Eastern Standard Time)",
+            "thread_from": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
+            "thread_to": null,
+            "Reply_to": null,
+            "text": "Isn't it strange to the act of changing careers in your 30s",
+            "likes":[
+                {
+                    "uuid": "121dc7b7-abec-452f-9fb4-5ff9e052c482"
+                },
+                {
+                    "uuid": "1660098ab-a34f-4935-9929-efe6f1295e97"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "timestamp": "Thu Feb 01 2024 07:10:23 GMT-0500 (Eastern Standard Time)",
+            "thread_from": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
+            "thread_to": null,
+            "Reply_to": null,
+            "text": "Another thread another dollar",
+            "likes":[]
+            
+        },
+        {
+            "id": 2,
+            "timestamp": "Thu Feb 01 2024 09:10:23 GMT-0500 (Eastern Standard Time)",
+            "thread_from": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
+            "thread_to": null,
+            "Reply_to": null,
+            "text": "You're on the roll today, aren't you?",
+            "likes":[]
+            
+        },
+        {
+            "id": 3,
+            "timestamp": "Thu Feb 01 2024 11:10:23 GMT-0500 (Eastern Standard Time)",
+            "thread_from": "1660098ab-a34f-4935-9929-efe6f1295e97",
+            "thread_to": null,
+            "Reply_to": null,
+            "text": "Excited to be in the tech industry!",
+            "likes":[]
+            
+        },
+        {
+            "id": 4,
+            "timestamp": "Thu Feb 01 2024 12:10:23 GMT-0500 (Eastern Standard Time)",
+            "thread_from": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
+            "thread_to": "1660098ab-a34f-4935-9929-efe6f1295e97",
+            "Reply_to": 3,
+            "text": "Congrats!",
+            "likes":[]
+            
+        }
+
+    ]
+}
