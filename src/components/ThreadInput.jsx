@@ -2,8 +2,8 @@ const ThreadInput = () => {
     return (
         <>
         <p></p>
-        <input></input>
-        <button></button>
+        <input/>
+        <button className="primary">Post</button>
         </>
     )
   }
