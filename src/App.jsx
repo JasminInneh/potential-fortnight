@@ -13,7 +13,7 @@ const App = () => {
   const getUser = async () => {
     
     try {
-      const response = await fetch(``)
+      const response = await fetch(`https://potential-fortnight-rq64pxjpqqv39xx-3200.app.github.dev/users?user_uuid=${userId}`)
       const data = await response.json()
       setUser(data[0])
 
@@ -32,12 +32,14 @@ const App = () => {
     <>
       {user && <div className="app">
         <Nav url={user.instagram_url}/>
-        <Header />
+        <Header 
+        user={user}
+        
+        />
         <Feed/>
         {/* <PopUp/> */}
       </div>}
     </>
-   
   )
 }
 

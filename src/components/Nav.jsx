@@ -1,4 +1,4 @@
-const Nav = ( { url} ) => {
+const Nav = ( { url } ) => {
     return (
         <nav>
             

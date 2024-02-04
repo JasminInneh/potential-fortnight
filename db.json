@@ -3,7 +3,7 @@
         
         {
             "id": 0,
-            "users_uuid": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
+            "user_uuid": "121dc7b7-abec-452f-9fb4-5ff9e052c482",
             "username": "Jasmin Nicole Inneh",
             "handle": "JasminInneh",
             "bio": "Educator turned Web Developer | Bridging the Gap Between Teaching and Tech | Transforming Ideas into Code",
@@ -22,7 +22,7 @@
         },
         {
             "id": 1,
-            "users_uuid": "1660098ab-a34f-4935-9929-efe6f1295e97",
+            "user_uuid": "1660098ab-a34f-4935-9929-efe6f1295e97",
             "username": "Michelle Bradley",
             "handle": "MichelleBradley",
             "bio": "Teacher transitioned to Teach",
@@ -38,7 +38,7 @@
         },
         {
             "id": 2,
-            "users_uuid": "fc42ef7a-7e4d-41bb-8b96-bbf94c68c4d5 ",
+            "user_uuid": "fc42ef7a-7e4d-41bb-8b96-bbf94c68c4d5 ",
             "username": "Roosevelt Graham",
             "handle": "RooseveltGraham",
             "bio": "Making music for the globe",
